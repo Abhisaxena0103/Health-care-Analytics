@@ -180,7 +180,7 @@ healthcare-readmission-prediction/
 
 🚀 How To Run This Project
 Step 1: Clone Repository
-git clone
+git clone https://github.com/yourusername/healthcare-readmission-prediction.git
 cd healthcare-readmission-prediction
 
 Step 2: Install Dependencies
