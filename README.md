@@ -153,7 +153,6 @@ Risk stratification analysis
 Final analytical dashboard
 
 Total: 12 high-quality visualizations
-
 📁 Project Structure
 healthcare-readmission-prediction/
 │
@@ -178,9 +177,10 @@ healthcare-readmission-prediction/
     ├── 11_risk_stratification.png
     └── 12_FINAL_DASHBOARD.png
 
+
 🚀 How To Run This Project
 Step 1: Clone Repository
-git clone https://github.com/yourusername/healthcare-readmission-prediction.git
+git clone 
 cd healthcare-readmission-prediction
 
 Step 2: Install Dependencies
