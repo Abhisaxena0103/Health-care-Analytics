@@ -1,4 +1,3 @@
-# Health-care-Analytics
 🏥 End-to-End Healthcare Analytics & Predictive Modeling Project
 
 Predicting 30-Day Hospital Readmissions Using Machine Learning
@@ -181,7 +180,7 @@ healthcare-readmission-prediction/
 
 🚀 How To Run This Project
 Step 1: Clone Repository
-git clone 
+git clone
 cd healthcare-readmission-prediction
 
 Step 2: Install Dependencies
