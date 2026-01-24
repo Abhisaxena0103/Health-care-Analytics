@@ -153,30 +153,6 @@ Risk stratification analysis
 Final analytical dashboard
 
 Total: 12 high-quality visualizations
-📁 Project Structure
-healthcare-readmission-prediction/
-│
-├── diabetic_data.csv
-├── diabetic_data_cleaned.csv
-├── healthcare_analytics.py
-├── EXECUTIVE_SUMMARY.txt
-├── README.md
-├── requirements.txt
-│
-└── visualizations/
-    ├── 01_target_distribution.png
-    ├── 02_numeric_distributions.png
-    ├── 03_categorical_distributions.png
-    ├── 04_numeric_vs_readmission.png
-    ├── 05_categorical_vs_readmission.png
-    ├── 06_correlation_matrix.png
-    ├── 07_model_comparison.png
-    ├── 08_confusion_matrices.png
-    ├── 09_feature_importance.png
-    ├── 10_probability_distribution.png
-    ├── 11_risk_stratification.png
-    └── 12_FINAL_DASHBOARD.png
-
 
 🚀 How To Run This Project
 Step 1: Clone Repository
